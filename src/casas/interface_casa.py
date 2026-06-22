@@ -8,10 +8,16 @@ class Casa:
         self.slogan = slogan
         self.bandeira = bandeira
         self.senha = senha
-        self.qtdAlunos = []
+        self.alunos = []
 
     def obterQuantidadeAlunos(self):
-        return len (self.qtdAlunos)
+        return len(self.alunos)
 
     def exibirArte(self):
         return self.bandeira
+    
+    def informarSenha(self):
+        return self.senha
+
+    def __str__(self):
+        return f"Nome: {self.nome}\nFundador: {self.fundador}\nCor: {self.cor}\nSlogan: {self.slogan}\nSenha: {self.senha}\nBandeira: {self.exibirArte()}\nAlunos: {self.obterQuantidadeAlunos()}"

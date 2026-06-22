@@ -7,6 +7,7 @@ class Sonserina(Casa):
             fundador = "Salazar Slytherin",
             cor = "Verde e Prata",
             slogan="Astucia e ambição",
+            senha = "Sangue Puro",                                            
             bandeira="▄▄▀█▄───▄───────▄\n" +
                      "▀▀▀██──███─────███\n" +
                      "░▄██▀░█████░░░█████░░\n" +

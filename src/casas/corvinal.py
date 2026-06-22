@@ -7,6 +7,7 @@ class Corvinal(Casa):
             fundador = "Rowena Ravenclaw",
             cor = "Azul e Bronze",
             slogan = "Sabedoria sem limites",
+            senha = "Curiosidade",
             bandeira =  "                __\n" +
                         "               /'{>\n" +
                         "           ____) (____\n" +

@@ -7,7 +7,8 @@ class Grifinoria(Casa):
             fundador = "Godric Griffindor",
             cor = "Vermelho e Dourado",
             slogan="Onde habitam os bravos de coração",
-            bandeira =  "──▄▀▀▀▀▀───▄█▀▀▀█▄\n" +
+            senha = "Coragem",
+            bandeira =   "──▄▀▀▀▀▀───▄█▀▀▀█▄\n" +
                         "──▐▄▄▄▄▄▄▄▄██▌▀▄▀▐██\n" +
                         "──▐▒▒▒▒▒▒▒▒███▌▀▐███\n" +
                         "───▌▒▓▒▒▒▒▓▒██▌▀▐██\n" +

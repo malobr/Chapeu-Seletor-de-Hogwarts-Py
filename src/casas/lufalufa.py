@@ -7,6 +7,7 @@ class Lufalufa(Casa):
             fundador = "Helga Hufflepuff",
             cor = "Amarelo e Preto",
             slogan="Onde habitam os justos e leais",
+            senha = "Lealdade",
             bandeira = "               (`-()_.-=-.\n" +
                        "               /00  ,     , \\n" +
                        "             =(o_/= //_  (  /======` \n" +
